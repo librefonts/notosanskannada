@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uni0000"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xad" name="uni00AD"/><!-- SOFT HYPHEN -->
+      <map code="0xd7" name="multiply"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xf7" name="divide"/><!-- DIVISION SIGN -->
+      <map code="0x964" name="uni0964"/><!-- DEVANAGARI DANDA -->
+      <map code="0x965" name="uni0965"/><!-- DEVANAGARI DOUBLE DANDA -->
+      <map code="0xc82" name="uni0C82"/><!-- KANNADA SIGN ANUSVARA -->
+      <map code="0xc83" name="uni0C83"/><!-- KANNADA SIGN VISARGA -->
+      <map code="0xc85" name="uni0C85"/><!-- KANNADA LETTER A -->
+      <map code="0xc86" name="uni0C86"/><!-- KANNADA LETTER AA -->
+      <map code="0xc87" name="uni0C87"/><!-- KANNADA LETTER I -->
+      <map code="0xc88" name="uni0C88"/><!-- KANNADA LETTER II -->
+      <map code="0xc89" name="uni0C89"/><!-- KANNADA LETTER U -->
+      <map code="0xc8a" name="uni0C8A"/><!-- KANNADA LETTER UU -->
+      <map code="0xc8b" name="uni0C8B"/><!-- KANNADA LETTER VOCALIC R -->
+      <map code="0xc8c" name="uni0C8C"/><!-- KANNADA LETTER VOCALIC L -->
+      <map code="0xc8e" name="uni0C8E"/><!-- KANNADA LETTER E -->
+      <map code="0xc8f" name="uni0C8F"/><!-- KANNADA LETTER EE -->
+      <map code="0xc90" name="uni0C90"/><!-- KANNADA LETTER AI -->
+      <map code="0xc92" name="uni0C92"/><!-- KANNADA LETTER O -->
+      <map code="0xc93" name="uni0C93"/><!-- KANNADA LETTER OO -->
+      <map code="0xc94" name="uni0C94"/><!-- KANNADA LETTER AU -->
+      <map code="0xc95" name="uni0C95"/><!-- KANNADA LETTER KA -->
+      <map code="0xc96" name="uni0C96"/><!-- KANNADA LETTER KHA -->
+      <map code="0xc97" name="uni0C97"/><!-- KANNADA LETTER GA -->
+      <map code="0xc98" name="uni0C98"/><!-- KANNADA LETTER GHA -->
+      <map code="0xc99" name="uni0C99"/><!-- KANNADA LETTER NGA -->
+      <map code="0xc9a" name="uni0C9A"/><!-- KANNADA LETTER CA -->
+      <map code="0xc9b" name="uni0C9B"/><!-- KANNADA LETTER CHA -->
+      <map code="0xc9c" name="uni0C9C"/><!-- KANNADA LETTER JA -->
+      <map code="0xc9d" name="uni0C9D"/><!-- KANNADA LETTER JHA -->
+      <map code="0xc9e" name="uni0C9E"/><!-- KANNADA LETTER NYA -->
+      <map code="0xc9f" name="uni0C9F"/><!-- KANNADA LETTER TTA -->
+      <map code="0xca0" name="uni0CA0"/><!-- KANNADA LETTER TTHA -->
+      <map code="0xca1" name="uni0CA1"/><!-- KANNADA LETTER DDA -->
+      <map code="0xca2" name="uni0CA2"/><!-- KANNADA LETTER DDHA -->
+      <map code="0xca3" name="uni0CA3"/><!-- KANNADA LETTER NNA -->
+      <map code="0xca4" name="uni0CA4"/><!-- KANNADA LETTER TA -->
+      <map code="0xca5" name="uni0CA5"/><!-- KANNADA LETTER THA -->
+      <map code="0xca6" name="uni0CA6"/><!-- KANNADA LETTER DA -->
+      <map code="0xca7" name="uni0CA7"/><!-- KANNADA LETTER DHA -->
+      <map code="0xca8" name="uni0CA8"/><!-- KANNADA LETTER NA -->
+      <map code="0xcaa" name="uni0CAA"/><!-- KANNADA LETTER PA -->
+      <map code="0xcab" name="uni0CAB"/><!-- KANNADA LETTER PHA -->
+      <map code="0xcac" name="uni0CAC"/><!-- KANNADA LETTER BA -->
+      <map code="0xcad" name="uni0CAD"/><!-- KANNADA LETTER BHA -->
+      <map code="0xcae" name="uni0CAE"/><!-- KANNADA LETTER MA -->
+      <map code="0xcaf" name="uni0CAF"/><!-- KANNADA LETTER YA -->
+      <map code="0xcb0" name="uni0CB0"/><!-- KANNADA LETTER RA -->
+      <map code="0xcb1" name="uni0CB1"/><!-- KANNADA LETTER RRA -->
+      <map code="0xcb2" name="uni0CB2"/><!-- KANNADA LETTER LA -->
+      <map code="0xcb3" name="uni0CB3"/><!-- KANNADA LETTER LLA -->
+      <map code="0xcb5" name="uni0CB5"/><!-- KANNADA LETTER VA -->
+      <map code="0xcb6" name="uni0CB6"/><!-- KANNADA LETTER SHA -->
+      <map code="0xcb7" name="uni0CB7"/><!-- KANNADA LETTER SSA -->
+      <map code="0xcb8" name="uni0CB8"/><!-- KANNADA LETTER SA -->
+      <map code="0xcb9" name="uni0CB9"/><!-- KANNADA LETTER HA -->
+      <map code="0xcbc" name="uni0CBC"/><!-- KANNADA SIGN NUKTA -->
+      <map code="0xcbd" name="uni0CBD"/><!-- KANNADA SIGN AVAGRAHA -->
+      <map code="0xcbe" name="uni0CBE"/><!-- KANNADA VOWEL SIGN AA -->
+      <map code="0xcbf" name="uni0CBF"/><!-- KANNADA VOWEL SIGN I -->
+      <map code="0xcc0" name="uni0CC0"/><!-- KANNADA VOWEL SIGN II -->
+      <map code="0xcc1" name="uni0CC1"/><!-- KANNADA VOWEL SIGN U -->
+      <map code="0xcc2" name="uni0CC2"/><!-- KANNADA VOWEL SIGN UU -->
+      <map code="0xcc3" name="uni0CC3"/><!-- KANNADA VOWEL SIGN VOCALIC R -->
+      <map code="0xcc4" name="uni0CC4"/><!-- KANNADA VOWEL SIGN VOCALIC RR -->
+      <map code="0xcc6" name="uni0CC6"/><!-- KANNADA VOWEL SIGN E -->
+      <map code="0xcc7" name="uni0CC7"/><!-- KANNADA VOWEL SIGN EE -->
+      <map code="0xcc8" name="uni0CC8"/><!-- KANNADA VOWEL SIGN AI -->
+      <map code="0xcca" name="uni0CCA"/><!-- KANNADA VOWEL SIGN O -->
+      <map code="0xccb" name="uni0CCB"/><!-- KANNADA VOWEL SIGN OO -->
+      <map code="0xccc" name="uni0CCC"/><!-- KANNADA VOWEL SIGN AU -->
+      <map code="0xccd" name="uni0CCD"/><!-- KANNADA SIGN VIRAMA -->
+      <map code="0xcd5" name="uni0CD5"/><!-- KANNADA LENGTH MARK -->
+      <map code="0xcd6" name="uni0CD6"/><!-- KANNADA AI LENGTH MARK -->
+      <map code="0xcde" name="uni0CDE"/><!-- KANNADA LETTER FA -->
+      <map code="0xce0" name="uni0CE0"/><!-- KANNADA LETTER VOCALIC RR -->
+      <map code="0xce1" name="uni0CE1"/><!-- KANNADA LETTER VOCALIC LL -->
+      <map code="0xce2" name="uni0CE2"/><!-- KANNADA VOWEL SIGN VOCALIC L -->
+      <map code="0xce3" name="uni0CE3"/><!-- KANNADA VOWEL SIGN VOCALIC LL -->
+      <map code="0xce6" name="uni0CE6"/><!-- KANNADA DIGIT ZERO -->
+      <map code="0xce7" name="uni0CE7"/><!-- KANNADA DIGIT ONE -->
+      <map code="0xce8" name="uni0CE8"/><!-- KANNADA DIGIT TWO -->
+      <map code="0xce9" name="uni0CE9"/><!-- KANNADA DIGIT THREE -->
+      <map code="0xcea" name="uni0CEA"/><!-- KANNADA DIGIT FOUR -->
+      <map code="0xceb" name="uni0CEB"/><!-- KANNADA DIGIT FIVE -->
+      <map code="0xcec" name="uni0CEC"/><!-- KANNADA DIGIT SIX -->
+      <map code="0xced" name="uni0CED"/><!-- KANNADA DIGIT SEVEN -->
+      <map code="0xcee" name="uni0CEE"/><!-- KANNADA DIGIT EIGHT -->
+      <map code="0xcef" name="uni0CEF"/><!-- KANNADA DIGIT NINE -->
+      <map code="0xcf1" name="uni0CF1"/><!-- KANNADA SIGN JIHVAMULIYA -->
+      <map code="0xcf2" name="uni0CF2"/><!-- KANNADA SIGN UPADHMANIYA -->
+      <map code="0x200b" name="uniFEFF"/><!-- ZERO WIDTH SPACE -->
+      <map code="0x200c" name="afii61664"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="afii301"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x2013" name="endash"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash"/><!-- EM DASH -->
+      <map code="0x2018" name="quoteleft"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="quotedblright"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x2026" name="ellipsis"/><!-- HORIZONTAL ELLIPSIS -->
+      <map code="0x20b9" name="uni20B9"/><!-- ???? -->
+      <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
+      <map code="0x25cc" name="uni25CC"/><!-- DOTTED CIRCLE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
