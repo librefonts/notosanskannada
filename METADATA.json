@@ -1,0 +1,33 @@
+{
+  "name": "Noto Sans Kannada",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 36696,
+  "fonts": [
+    {
+      "name": "Noto Sans Kannada",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansKannada-Regular.ttf",
+      "postScriptName": "NotoSansKannada",
+      "fullName": "Noto Sans Kannada",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Sans Kannada",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSansKannada-Bold.ttf",
+      "postScriptName": "NotoSansKannada-Bold",
+      "fullName": "Noto Sans Kannada Bold",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
